@@ -48,7 +48,7 @@ col1.markdown(
     """
 <div style="background-color:#000000; border: 2px solid black;color:#6F7780; border-radius: 10px; padding: 10px;">
 <h3>Truth accuracy</h3>
-<p>hitler was bad</p>
+<p>Stalin was a bad person</p>
 </div>
 """,
     unsafe_allow_html=True,
@@ -56,8 +56,8 @@ col1.markdown(
 col2.markdown(
     """
 <div style="background-color:#000000;border: 2px solid black;color:#6F7780; border-radius: 10px; padding: 10px;">
-<h3>Summarization</h3>
-<p>Summarize this paragraph</p>
+<h3>Truth Seking</h3>
+<p>Searches for the truth</p>
 </div>
 """,
     unsafe_allow_html=True,
